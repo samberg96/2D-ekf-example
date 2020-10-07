@@ -6,4 +6,4 @@ This project contains a 2D Extended Kalman Filter which fuses velocity laser ran
 - '2D_EKF.m': Main script for EKF and creating animation
 - 'dataset2.mat': Matlab workspace with measurements and groundtruth data.
 - '2D_EKF_Visualization.mov': Video of state estimation results with uncertainty bounds.
-- 'AER1513_Assignment2_Weinberg.pdf': Report containing derivations of motion and observation models.
+- '2D_EKF_Example.pdf': Report containing derivations of motion and observation models.
