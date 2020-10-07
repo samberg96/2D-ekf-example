@@ -1,4 +1,4 @@
-# 2D-EKF-AER1513
+# 2D-EKF-Example
 ## Description
 This project contains a 2D Extended Kalman Filter which fuses velocity laser range-finder measurements to estimate pose of mobile robot.
 
